@@ -1,0 +1,15 @@
+{
+  "name": "open-github-from-npm",
+  "main": "./lib/open-github-from-npm",
+  "version": "0.0.0",
+  "description": "Open GitHub URL from npm package name",
+  "repository": "https://github.com/hokaccha/atom-open-github-from-npm",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.4",
+    "github-url-from-npm": "^0.1.0"
+  }
+}
