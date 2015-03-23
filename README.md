@@ -8,7 +8,7 @@ Open GitHub URL from npm package name.
 
 |name|keybind|description|
 |----|-------|-----------|
-|`open-github-from-npm:open`|`ctrl-alt-n`|Find GitHub URL from current selected text|
+|`open-github-from-npm:open`|`ctrl-alt-n`|Find and open GitHub URL from current selected text|
 
 ## LICENSE
 
