@@ -18,7 +18,7 @@ module.exports =
 
   open: ->
     editor = atom.workspace.getActiveTextEditor()
-    text = editor.getSelection().getText()
+    text = editor.getSelectedText()
     return unless text
 
     if @cache[text]
